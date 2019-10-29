@@ -1,1 +1,1 @@
-# https://anomallia.github.io/sample.github.io/
+# https://anomallia.github.io/sample/
