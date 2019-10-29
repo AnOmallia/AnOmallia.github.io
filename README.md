@@ -1,1 +1,1 @@
-# js-html-css-sample-web-page
+# https://anomallia.github.io/sample.github.io/
